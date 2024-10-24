@@ -8,7 +8,7 @@ export const Home = () => {
         <section className={styles.container}>
             {/* Text on the left hand side */}
             <div className={styles.content}>
-                <h1 className={styles.title}>Welcome to my website!</h1>
+                <h1 className={styles.title}>Matthew Rottinghaus</h1>
                 <p className={styles.description}>
                     I'm a software developer with experience using Python, C/C++, JavaSciprt/TypeScript. 
                     Check out my experience and projects, and reach out if you'd like to learn more about them!
