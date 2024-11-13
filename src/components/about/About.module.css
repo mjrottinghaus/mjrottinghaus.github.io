@@ -26,9 +26,10 @@
 }
 
 .aboutImage {
-  width: 35%;
-  /* padding-left: 1%;
-  padding-right: 1%; */
+  width: 150%;
+  border-radius: 20px;
+  padding-left: 1%;
+  padding-right: 1%;
 }
 
 .aboutItems {

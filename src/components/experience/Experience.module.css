@@ -24,7 +24,7 @@
 
 .skills {
   width: 45%;
-  display: inline-flex;
+  display: block flex;
   flex-wrap: wrap;
   justify-content: center;
   gap: 37px;
@@ -78,7 +78,7 @@
 .historyItem img {
     padding: 15px;
     width: 150px;
-    background: linear-gradient(90deg, #ffffff 0%, rgba(94, 97, 102, 0.5) 100%);;
+    background: linear-gradient(90deg, #ffffff 0%, rgba(100, 98, 100, 0.5) 150%);;
     border-radius: 10px;
 }
 
