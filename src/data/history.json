@@ -1,0 +1,52 @@
+[
+    {
+      "role": "Software Engineer",
+      "organization": "CACI",
+      "location" : "Westminster, CO",
+      "startDate": "July 2023",
+      "endDate": "Present",
+      "experiences": [
+        "Design and Develop software solutions for customers in National Security."
+      ],
+      "imageSrc": "history/caci.png"
+    },
+    {
+      "role": "Graduate Instructor",
+      "organization": "Colorado School of Mines",
+      "location" : "Golden, CO",
+      "startDate": "Aug 2022",
+      "endDate": "May 2023",
+      "experiences": [
+        "Taught programming lab for first year students who have limited programming experience",
+        "Fostered a culture of inclusivity and positivity in the Computer Science Department"
+      ],
+      "imageSrc": "history/mines.png"
+    },
+    {
+      "role": "Software Developer Intern",
+      "organization": "CACI",
+      "location": "Westminster, CO",
+      "startDate": "Jun 2021",
+      "endDate": "Aug 2022",
+      "experiences": [
+        "Expanded cellular survey to include 5G-NR using open-source cellular network analysis libraries.",
+        "Coordinated with full-time engineers to implement survey solution as microservices inside Docker containers.",
+        "Designed and programmed multi-floor editing tool for venue navigation systems.",
+        "Developed comprehensive documentation for future development on both projects"
+      ],
+      "imageSrc": "history/caci.png"
+    },
+    {
+      "role": "Quality, Growth, and Innovation Student Employee",
+      "organization": "Fellowship of Catholic University Students",
+      "location": "Golden, CO",
+      "startDate": "Jun 2020",
+      "endDate": "Jul 2020",
+      "experiences": [
+        "Automated New Staff Training Survey Analysis using Python and R-Markdown.",
+        "Evaluated gamification initiative and provided best next steps for effectiveness.",
+        "Reorganized data across various departments in a user-friendly dashboard."
+      ],
+      "imageSrc": "history/focus.png"
+    }
+  ]
