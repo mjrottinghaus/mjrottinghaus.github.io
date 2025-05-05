@@ -26,5 +26,9 @@
     {
       "title": "MATLAB",
       "imageSrc": "skills/matlab.png"
+    },
+    {
+      "title": "Android/AOSP",
+      "imageSrc": "skills/android.png"
     }
   ]

@@ -13,10 +13,9 @@ export const Home = () => {
                     I'm a software developer with experience using Python, C/C++, JavaSciprt/TypeScript. 
                     Check out my experience and projects, and reach out if you'd like to learn more about them!
                 </p>
-                <p className={styles.description}>AMDG</p>
                 <a href="mailto:mrott0902@yahoo.com" className={styles.contactBtn}>Contact Me</a>
             </div>
-            <img src={getImageUrl("home/profile.jpg")} alt="Picture of Matthew" className={styles.profilePicture}></img>
+            <img src={getImageUrl("home/profile.jpg")} alt="Picture of Matthew at Yosemite" className={styles.profilePicture}></img>
 
             <div className={styles.topBlur}></div>
             <div className={styles.bottomBlur}></div>

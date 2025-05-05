@@ -9,7 +9,7 @@ export const About = () => {
         <h2 className={sytles.title}>About</h2>
         <div className={sytles.content}>
             <img src={getImageUrl("about/aboutMe.jpg")}
-                 alt="Matthew At Yosemite National Park"
+                 alt="Matthew with friends at Denver vs. Kansas City game"
                  className={sytles.aboutImage}/>
             <ul className={sytles.aboutItems}>
                 <li className={sytles.aboutItem}>
