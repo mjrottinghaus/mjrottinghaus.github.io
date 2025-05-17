@@ -1,31 +1,30 @@
 @font-face {
-    font-family: 'Goldman'; /* Choose a name for your font family */
-    src: url('../assets/fonts/goldman.ttf') format('truetype'); /* Replace with the correct path and format */
-    font-weight: normal; /* Adjust font weight if needed */
-    font-style: normal; /* Adjust font style if needed */
-  }
+  font-family: 'Goldman';
+  /* Choose a name for your font family */
+  src: url('../assets/fonts/goldman.ttf') format('truetype');
+  /* Replace with the correct path and format */
+  font-weight: normal;
+  /* Adjust font weight if needed */
+  font-style: normal;
+  /* Adjust font style if needed */
+}
 
 :root {
-    /* Colors */
-    --color-dark: #3D5A80;
-    --color-primary: #98C1D9;
-    --color-bg: #E0FBFC;
-    --color-secondary: #EE6C4D;
+  /* Colors */
+  --color-dark: #3D5A80;
+  --color-primary: #98C1D9;
+  --color-bg: #E0FBFC;
+  --color-secondary: #EE6C4D;
 
-    /* NOTE: these are rgba values, dont pass where you would hex values */
-    --color-dark-a: rgba(88, 88, 88, 0);
-    --color-light: rgba(218, 246, 255, 0.42);
+  /* NOTE: these are rgba values, dont pass where you would hex values */
+  --color-dark-a: rgba(88, 88, 88, 0);
+  --color-light: rgba(218, 246, 255, 0.42);
 
-    --color-text: #293241;
-    --color-text-light: #d0d0d0;
-    /* --color-text: #dbcfcf;
-    --color-primary: #003049;
-    --color-secondary: #d62828;
-    --color-dark: #f77f00;
-    --color-bg: #fcbf49; */
+  --color-text: #293241;
+  --color-text-light: #d0d0d0;
 
-    /* Fonts */
-    --font-roboto: "Roboto";
-    --font-helvetica: "Helvetica";
-    --font-goldman: "Goldman";
+  /* Fonts */
+  --font-roboto: "Roboto";
+  --font-helvetica: "Helvetica";
+  --font-goldman: "Goldman";
 }
