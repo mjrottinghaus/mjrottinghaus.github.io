@@ -65,5 +65,17 @@
     .links {
         align-items: center;
     }
+
+    .text h2 {
+        font-size: var(--h1-size-mobile);
+    }
+
+    .text p {
+        font-size: var(--h1-size-mobile);
+    }
+    
+    .link a {
+        font-size: var(--h1-size-mobile);
+    }
 }
 

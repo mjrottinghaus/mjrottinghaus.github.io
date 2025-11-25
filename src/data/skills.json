@@ -24,11 +24,15 @@
       "imageSrc": "skills/db.png"
     },
     {
-      "title": "MATLAB",
-      "imageSrc": "skills/matlab.png"
+      "title": "Android",
+      "imageSrc": "skills/android.png"
     },
     {
-      "title": "Android/AOSP",
-      "imageSrc": "skills/android.png"
+      "title": "Yocto",
+      "imageSrc": "skills/yocto.png"
+    },
+        {
+      "title": "MATLAB",
+      "imageSrc": "skills/matlab.png"
     }
   ]

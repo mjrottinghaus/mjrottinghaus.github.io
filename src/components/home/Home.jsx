@@ -10,7 +10,7 @@ export const Home = () => {
             <div className={styles.content}>
                 <h1 className={styles.title}>Matthew Rottinghaus</h1>
                 <p className={styles.description}>
-                    I'm a software developer with experience using Python, C/C++, JavaSciprt/TypeScript. 
+                    I'm a software developer with experience using C/C++, JavaSciprt/TypeScript, Python, and the Yocto Project. 
                     Check out my experience and projects, and reach out if you'd like to learn more about them!
                 </p>
                 <a href="mailto:mrott0902@yahoo.com" className={styles.contactBtn}>Contact Me</a>

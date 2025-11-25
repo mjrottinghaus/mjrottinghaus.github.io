@@ -27,4 +27,12 @@
   --font-roboto: "Roboto";
   --font-helvetica: "Helvetica";
   --font-goldman: "Goldman";
+
+  /* Font Sizes */
+  /* Desktop */
+
+  /* Mobile */
+  --h1-size-mobile: 25px;
+  --h3-size-mobile: 18px;
+  --p-size-mobile: 15px;
 }
