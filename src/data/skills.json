@@ -1,5 +1,9 @@
 [
     {
+      "title": "Yocto",
+      "imageSrc": "skills/yocto.png"
+    },
+    {
       "title": "C/C++",
       "imageSrc": "skills/c_plus_plus.png"
     },
@@ -16,6 +20,10 @@
       "imageSrc": "skills/lte.png"
     },
     {
+      "title": "Android",
+      "imageSrc": "skills/android.png"
+    },
+    {
       "title": "Docker",
       "imageSrc": "skills/docker.png"
     },
@@ -24,14 +32,6 @@
       "imageSrc": "skills/db.png"
     },
     {
-      "title": "Android",
-      "imageSrc": "skills/android.png"
-    },
-    {
-      "title": "Yocto",
-      "imageSrc": "skills/yocto.png"
-    },
-        {
       "title": "MATLAB",
       "imageSrc": "skills/matlab.png"
     }

@@ -6,7 +6,11 @@
       "startDate": "July 2023",
       "endDate": "Present",
       "experiences": [
-        "Design and Develop software solutions for customers in National Security."
+        "Design and Develop software solutions for customers in National Security.",
+        "Maintaining custom Yocto OS on legacy and modern SoMs",
+        "Implementing C/C++ libraries with a focus on performance",
+        "Designing asynchronous, module driven JavaScript/TypeScript",
+        "Hardening esiting platforms using Blackduck scanning tools."
       ],
       "imageSrc": "history/caci.png"
     },

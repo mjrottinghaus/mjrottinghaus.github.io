@@ -15,7 +15,7 @@ export const Home = () => {
                 </p>
                 <a href="mailto:mrott0902@yahoo.com" className={styles.contactBtn}>Contact Me</a>
             </div>
-            <img src={getImageUrl("home/profile.jpg")} alt="Picture of Matthew at Yosemite" className={styles.profilePicture}></img>
+            <img src={getImageUrl("home/profile.jpg")} alt="Picture of Matthew!" className={styles.profilePicture}></img>
 
             <div className={styles.topBlur}></div>
             <div className={styles.bottomBlur}></div>
