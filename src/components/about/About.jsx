@@ -23,14 +23,14 @@ export const About = () => {
                     <img src={getImageUrl("about/serverIcon.png")} alt="Server Icon"/>
                     <div className={sytles.aboutItemText}>
                         <h3>Robotics Judge/Mentor</h3>
-                        <p>I help give back to the STEM/Robotics community by serving as a Judge Advisor for VEX Robotics in Colorado and beyond.  Nothing gets me up early on a Saturday like getting to help support the next generation of engineers!</p>
+                        <p>I help give back to the STEM/Robotics community by serving as a Judge Advisor for Educational Robotics in Colorado and beyond.  Nothing gets me up early on a Saturday like getting to help support the next generation of engineers!</p>
                     </div>
                 </li>
                 <li className={sytles.aboutItem}>
                     <img src={getImageUrl("about/uiIcon.png")} alt="UI Icon"/>
                     <div className={sytles.aboutItemText}>
                         <h3>Outdoors/Sports Enthusiast</h3>
-                        <p>Outside of tech, I love getting outside and hiking in the Rocky Mountains (Sky Pond in RMNP is my favorite!).  I also have a deep love of sports and the analytics associated with them (particularly in baseball).</p>
+                        <p>Outside of tech, I love getting outside and hiking in the Rocky Mountains.  I also have a deep love of sports and the analytics associated with them (particularly in baseball).</p>
                     </div>
                 </li>
             </ul>
